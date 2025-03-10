@@ -68,7 +68,7 @@ To calculate the float of the each outcome, the formula is:
 **MinFloat**  = MinFloat of possible reward.  
 **MaxFloat**  = MaxFloat of possible reward.
 
-![](https://images.steamusercontent.com/ugc/1306557006405083173/466827CFE2B4D3739264611173C3D1EFAB540ACF/)
-*example : *
+![](https://images.steamusercontent.com/ugc/1306557006405083173/466827CFE2B4D3739264611173C3D1EFAB540ACF/)\
+*example : *\
 ![](https://images.steamusercontent.com/ugc/1306557006406188750/E21F3C66AD05F2C4108687E7B25DFDA029CBF6D4/)
 
