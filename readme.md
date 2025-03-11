@@ -1,49 +1,49 @@
 
 # Introduction
-### collections
-| Collection Name | Icon | Link |
-| --------------- | ---- | ---- |
-| Limited Edition Item Limited Edition Item | ![Icon](https://github.com/user-attachments/assets/4cf982f5-4fa2-486b-af8e-b14410e98584.png) | [Link](https://stash.clash.gg/collection/Limited+Edition+Item) |
-| The Graphic Design Collection The Graphic Design Collection | ![Icon](https://github.com/user-attachments/assets/6f07b5dd-bf7b-4996-a31e-75a0230395b9.png) | [Link](https://stash.clash.gg/collection/The+Graphic+Design+Collection) |
-| The Overpass 2024 Collection The Overpass 2024 Collection | ![Icon](https://github.com/user-attachments/assets/6e9a3efb-ee8d-4948-8bd2-c07af623e4fd.png) | [Link](https://stash.clash.gg/collection/The+Overpass+2024+Collection) |
-| The Sport & Field Collection The Sport & Field Collection | ![Icon](https://github.com/user-attachments/assets/ddf10aa4-685b-415d-8e9c-61ace83941f5.png) | [Link](https://stash.clash.gg/collection/The+Sport+&+Field+Collection) |
-| Ancient | ![Icon](https://github.com/user-attachments/assets/3cb1ad48-e002-4c11-9fd4-f022025aeadd.png) | [Link](https://stash.clash.gg/collection/The+Ancient+Collection) |
-| Anubis | ![Icon](https://github.com/user-attachments/assets/e8a0343c-0e29-4cc7-bc3f-65192bd9218a.png) | [Link](https://stash.clash.gg/collection/The+Anubis+Collection) |
-| Inferno (2018) | ![Icon](https://github.com/user-attachments/assets/6b0ad7df-ae65-4fbd-a7b2-db71b6ea07e5.png) | [Link](https://stash.clash.gg/collection/The+2018+Inferno+Collection) |
-| Mirage (2021) | ![Icon](https://github.com/user-attachments/assets/4b6a20f1-21e6-4977-9385-d2281dcef8f5.png) | [Link](https://stash.clash.gg/collection/The+2021+Mirage+Collection) |
-| Nuke (2018) | ![Icon](https://github.com/user-attachments/assets/e0d2405d-3baa-4806-87c9-3f903b6bfbf1.png) | [Link](https://stash.clash.gg/collection/The+2018+Nuke+Collection) |
-| Overpass | ![Icon](https://github.com/user-attachments/assets/5437d48d-b74c-4373-9700-11f6048718ff.png) | [Link](https://stash.clash.gg/collection/The+Overpass+Collection) |
-| Vertigo (2021) | ![Icon](https://github.com/user-attachments/assets/af25e197-9e51-4daa-b180-bd5cf29a5e99.png) | [Link](https://stash.clash.gg/collection/The+2021+Vertigo+Collection) |
-| Alpha | ![Icon](https://github.com/user-attachments/assets/4f8a7eef-ba36-4687-a5d7-35c2d6d40fea.png) | [Link](https://stash.clash.gg/collection/The+Alpha+Collection) |
-| Assault | ![Icon](https://github.com/user-attachments/assets/4194f16e-a79e-4d7b-b3c3-41f8e224d100.png) | [Link](https://stash.clash.gg/collection/The+Assault+Collection) |
-| Aztec | ![Icon](https://github.com/user-attachments/assets/16f2b2e8-5f2a-482d-b42b-91f0da19526b.png) | [Link](https://stash.clash.gg/collection/The+Aztec+Collection) |
-| Baggage | ![Icon](https://github.com/user-attachments/assets/e41fa5d0-facb-427c-98a7-0d4c48eb2517.png) | [Link](https://stash.clash.gg/collection/The+Baggage+Collection) |
-| Bank | ![Icon](https://github.com/user-attachments/assets/b3b168bd-ef91-4a51-aa00-195897b6fe53.png) | [Link](https://stash.clash.gg/collection/The+Bank+Collection) |
-| Blacksite | ![Icon](https://github.com/user-attachments/assets/c471bff5-c4d4-4d06-bb6e-350576a85097.png) | [Link](https://stash.clash.gg/collection/The+Blacksite+Collection) |
-| Cache | ![Icon](https://github.com/user-attachments/assets/28e35269-34b6-4f28-bdad-818f02325be6.png) | [Link](https://stash.clash.gg/collection/The+Cache+Collection) |
-| Canals | ![Icon](https://github.com/user-attachments/assets/f4f9b313-8c0b-426f-90aa-7b66e082c686.png) | [Link](https://stash.clash.gg/collection/The+Canals+Collection) |
-| Chop Shop | ![Icon](https://github.com/user-attachments/assets/66ec5f2e-7f25-49a1-a3e1-348811447179.png) | [Link](https://stash.clash.gg/collection/The+Chop+Shop+Collection) |
-| Cobblestone | ![Icon](https://github.com/user-attachments/assets/e8e9ea7c-4997-480e-83f2-71685aca23e2.png) | [Link](https://stash.clash.gg/collection/The+Cobblestone+Collection) |
-| Control | ![Icon](https://github.com/user-attachments/assets/add7a3e1-95ad-4bd3-97b6-52065d8bbe43.png) | [Link](https://stash.clash.gg/collection/The+Control+Collection) |
-| Dust | ![Icon](https://github.com/user-attachments/assets/623427ac-1e93-4c08-a0f8-d14112f418e0.png) | [Link](https://stash.clash.gg/collection/The+Dust+Collection) |
-| Dust 2 (2021) | ![Icon](https://github.com/user-attachments/assets/154eddd4-eaf8-4250-9db2-4c3f29d1df12.png) | [Link](https://stash.clash.gg/collection/The+2021+Dust+2+Collection) |
-| Dust 2 (Old) | ![Icon](https://github.com/user-attachments/assets/0e628b4a-e57b-4301-a618-0f443a112369.png) | [Link](https://stash.clash.gg/collection/The+Dust+2+Collection) |
-| Gods and Monsters | ![Icon](https://github.com/user-attachments/assets/6aec0997-3750-4a0c-8880-532218fe578b.png) | [Link](https://stash.clash.gg/collection/The+Gods+and+Monsters+Collection) |
-| Havoc | ![Icon](https://github.com/user-attachments/assets/7efc78dc-07ec-443d-bb19-f8c50357878f.png) | [Link](https://stash.clash.gg/collection/The+Havoc+Collection) |
-| Inferno (Old) | ![Icon](https://github.com/user-attachments/assets/c64815ca-d662-4bd5-aa58-861ee05b4be1.png) | [Link](https://stash.clash.gg/collection/The+Inferno+Collection) |
-| Italy | ![Icon](https://github.com/user-attachments/assets/e6f5c7f9-9e2e-41e2-91e1-99fded6b4052.png) | [Link](https://stash.clash.gg/collection/The+Italy+Collection) |
-| Lake | ![Icon](https://github.com/user-attachments/assets/00a6efc7-7b31-4a44-bcb1-a1a25938bbf5.png) | [Link](https://stash.clash.gg/collection/The+Lake+Collection) |
-| Militia | ![Icon](https://github.com/user-attachments/assets/f85c50c3-12e6-425e-84db-df8851ed9945.png) | [Link](https://stash.clash.gg/collection/The+Militia+Collection) |
-| Mirage (Old) | ![Icon](https://github.com/user-attachments/assets/91ca9cdf-0c05-4dec-b42b-76012c6b29af.png) | [Link](https://stash.clash.gg/collection/The+Mirage+Collection) |
-| Norse | ![Icon](https://github.com/user-attachments/assets/b2164c8d-bc12-48f8-93a6-d1c8aaa3d777.png) | [Link](https://stash.clash.gg/collection/The+Norse+Collection) |
-| Nuke (Old) | ![Icon](https://github.com/user-attachments/assets/4ae6cc51-7127-4118-9ceb-a6967bf76aa7.png) | [Link](https://stash.clash.gg/collection/The+Nuke+Collection) |
-| Office | ![Icon](https://github.com/user-attachments/assets/d387b852-e54d-4e47-81d6-01a3131a369a.png) | [Link](https://stash.clash.gg/collection/The+Office+Collection) |
-| Rising Sun | ![Icon](https://github.com/user-attachments/assets/4c71efd4-83be-468c-8ed9-d667b95f19e0.png) | [Link](https://stash.clash.gg/collection/The+Rising+Sun+Collection) |
-| Safehouse | ![Icon](https://github.com/user-attachments/assets/f978a474-d8e2-491d-901f-d45ce8319296.png) | [Link](https://stash.clash.gg/collection/The+Safehouse+Collection) |
-| St. Marc | ![Icon](https://github.com/user-attachments/assets/8ce592d5-82aa-45d9-8a77-3a8a90ef6b9e.png) | [Link](https://stash.clash.gg/collection/The+St.+Marc+Collection) |
-| Train (2021) | ![Icon](https://github.com/user-attachments/assets/a8a51752-0884-4377-b5b3-1f93555c2080.png) | [Link](https://stash.clash.gg/collection/The+2021+Train+Collection) |
-| Train (Old) | ![Icon](https://github.com/user-attachments/assets/6178f89e-f154-4847-ba01-af1b11040903.png) | [Link](https://stash.clash.gg/collection/The+Train+Collection) |
-| Vertigo (Old) | ![Icon](https://github.com/user-attachments/assets/9c47a024-3fed-4141-943b-6e83add18933.png) | [Link](https://stash.clash.gg/collection/The+Vertigo+Collection) |
+ ### collections
+ | Collection Name | Icon | Link |
+ | --------------- | ---- | ---- |
+ | Limited Edition Item Limited Edition Item | ![Icon](https://github.com/user-attachments/assets/limited_edition_item_1f4538bc1de74b37a43809b615a60c48.png) | [Link](https://stash.clash.gg/collection/Limited+Edition+Item) |
+ | The Graphic Design Collection The Graphic Design Collection | ![Icon](https://github.com/user-attachments/assets/the_graphic_design_collection_b11a327b87bd433a8417ad8a9917621b.png) | [Link](https://stash.clash.gg/collection/The+Graphic+Design+Collection) |
+ | The Overpass 2024 Collection The Overpass 2024 Collection | ![Icon](https://github.com/user-attachments/assets/the_overpass_2024_collection_3c91199b29d042ef8e16f7a904320843.png) | [Link](https://stash.clash.gg/collection/The+Overpass+2024+Collection) |
+ | The Sport & Field Collection The Sport & Field Collection | ![Icon](https://github.com/user-attachments/assets/the_sport_&_field_collection_7b1861aa433044cf9805c1f14b470290.png) | [Link](https://stash.clash.gg/collection/The+Sport+&+Field+Collection) |
+ | Ancient | ![Icon](https://github.com/user-attachments/assets/the_ancient_collection_7ae105ad6c3645e4b348538c12d11cae.png) | [Link](https://stash.clash.gg/collection/The+Ancient+Collection) |
+ | Anubis | ![Icon](https://github.com/user-attachments/assets/the_anubis_collection_03f2f5b31e124a78bb57ba4f69eb957c.png) | [Link](https://stash.clash.gg/collection/The+Anubis+Collection) |
+ | Inferno (2018) | ![Icon](https://github.com/user-attachments/assets/the_2018_inferno_collection_a5df0897ccb140b4bc75ee1d20d24290.png) | [Link](https://stash.clash.gg/collection/The+2018+Inferno+Collection) |
+ | Mirage (2021) | ![Icon](https://github.com/user-attachments/assets/the_2021_mirage_collection_4027709f81584b32855b7fdd42946a22.png) | [Link](https://stash.clash.gg/collection/The+2021+Mirage+Collection) |
+ | Nuke (2018) | ![Icon](https://github.com/user-attachments/assets/the_2018_nuke_collection_b4ded5669bdc41e794ddb4c217fc1d28.png) | [Link](https://stash.clash.gg/collection/The+2018+Nuke+Collection) |
+ | Overpass | ![Icon](https://github.com/user-attachments/assets/the_overpass_collection_c1ad5718838b4f718ae79c3bdd6515b1.png) | [Link](https://stash.clash.gg/collection/The+Overpass+Collection) |
+ | Vertigo (2021) | ![Icon](https://github.com/user-attachments/assets/the_2021_vertigo_collection_b4f7d41d449f49efbc4d5fd55e2e7681.png) | [Link](https://stash.clash.gg/collection/The+2021+Vertigo+Collection) |
+ | Alpha | ![Icon](https://github.com/user-attachments/assets/the_alpha_collection_41a64b40cb8646cebe66ba738c07565e.png) | [Link](https://stash.clash.gg/collection/The+Alpha+Collection) |
+ | Assault | ![Icon](https://github.com/user-attachments/assets/the_assault_collection_97e16728919a4e6c83e2173cb84a38f7.png) | [Link](https://stash.clash.gg/collection/The+Assault+Collection) |
+ | Aztec | ![Icon](https://github.com/user-attachments/assets/the_aztec_collection_4506e65c952c4bc9a76643f07a334ff1.png) | [Link](https://stash.clash.gg/collection/The+Aztec+Collection) |
+ | Baggage | ![Icon](https://github.com/user-attachments/assets/the_baggage_collection_159466c0449d4987b6c78dfb61330b7c.png) | [Link](https://stash.clash.gg/collection/The+Baggage+Collection) |
+ | Bank | ![Icon](https://github.com/user-attachments/assets/the_bank_collection_82dc8b214d514c2f930523bbd359fc19.png) | [Link](https://stash.clash.gg/collection/The+Bank+Collection) |
+ | Blacksite | ![Icon](https://github.com/user-attachments/assets/the_blacksite_collection_d189a5bf1dfc402eacde7419c1768fb5.png) | [Link](https://stash.clash.gg/collection/The+Blacksite+Collection) |
+ | Cache | ![Icon](https://github.com/user-attachments/assets/the_cache_collection_599f251b7c8f4b678aff1b72f922b1bd.png) | [Link](https://stash.clash.gg/collection/The+Cache+Collection) |
+ | Canals | ![Icon](https://github.com/user-attachments/assets/the_canals_collection_ca1a07b0130841e3a0de4214463a0e9d.png) | [Link](https://stash.clash.gg/collection/The+Canals+Collection) |
+ | Chop Shop | ![Icon](https://github.com/user-attachments/assets/the_chop_shop_collection_8c5aecc41bec4200853ec25f0e3b896d.png) | [Link](https://stash.clash.gg/collection/The+Chop+Shop+Collection) |
+ | Cobblestone | ![Icon](https://github.com/user-attachments/assets/the_cobblestone_collection_7b9b9263fea846ec8d1e86787b44d6e0.png) | [Link](https://stash.clash.gg/collection/The+Cobblestone+Collection) |
+ | Control | ![Icon](https://github.com/user-attachments/assets/the_control_collection_e03f2d5697c34e5cb7d39aca07bf0bd8.png) | [Link](https://stash.clash.gg/collection/The+Control+Collection) |
+ | Dust | ![Icon](https://github.com/user-attachments/assets/the_dust_collection_a4703036e72f40fdb6b9a8487f182230.png) | [Link](https://stash.clash.gg/collection/The+Dust+Collection) |
+ | Dust 2 (2021) | ![Icon](https://github.com/user-attachments/assets/the_2021_dust_2_collection_8c560afc2e3942e6b9ae0b0e6735f643.png) | [Link](https://stash.clash.gg/collection/The+2021+Dust+2+Collection) |
+ | Dust 2 (Old) | ![Icon](https://github.com/user-attachments/assets/the_dust_2_collection_9cfbca21ee6246268ffc0862b4160b7c.png) | [Link](https://stash.clash.gg/collection/The+Dust+2+Collection) |
+ | Gods and Monsters | ![Icon](https://github.com/user-attachments/assets/the_gods_and_monsters_collection_cb1de3fdfb064d18a37160fddd9ef932.png) | [Link](https://stash.clash.gg/collection/The+Gods+and+Monsters+Collection) |
+ | Havoc | ![Icon](https://github.com/user-attachments/assets/the_havoc_collection_9730e346670f44a6a954d9abba562a6d.png) | [Link](https://stash.clash.gg/collection/The+Havoc+Collection) |
+ | Inferno (Old) | ![Icon](https://github.com/user-attachments/assets/the_inferno_collection_ec9113b81bdb4e18a7b3d9c29bf1b2a2.png) | [Link](https://stash.clash.gg/collection/The+Inferno+Collection) |
+ | Italy | ![Icon](https://github.com/user-attachments/assets/the_italy_collection_ed4d32a3edc240f8916cec3e247252fb.png) | [Link](https://stash.clash.gg/collection/The+Italy+Collection) |
+ | Lake | ![Icon](https://github.com/user-attachments/assets/the_lake_collection_bdf50d9585744b91bf522430212af7f7.png) | [Link](https://stash.clash.gg/collection/The+Lake+Collection) |
+ | Militia | ![Icon](https://github.com/user-attachments/assets/the_militia_collection_947f55fe2ce744dca3dc699cbd27e782.png) | [Link](https://stash.clash.gg/collection/The+Militia+Collection) |
+ | Mirage (Old) | ![Icon](https://github.com/user-attachments/assets/the_mirage_collection_f1bd3bcf74b94724bd7f62d30e88177b.png) | [Link](https://stash.clash.gg/collection/The+Mirage+Collection) |
+ | Norse | ![Icon](https://github.com/user-attachments/assets/the_norse_collection_075b0e4e53a54908bb404d3a3a8d688e.png) | [Link](https://stash.clash.gg/collection/The+Norse+Collection) |
+ | Nuke (Old) | ![Icon](https://github.com/user-attachments/assets/the_nuke_collection_c207bf0cf70749b4a64dc9455da75f4e.png) | [Link](https://stash.clash.gg/collection/The+Nuke+Collection) |
+ | Office | ![Icon](https://github.com/user-attachments/assets/the_office_collection_017a92853cf24a0ab94a6e12f6818d2d.png) | [Link](https://stash.clash.gg/collection/The+Office+Collection) |
+ | Rising Sun | ![Icon](https://github.com/user-attachments/assets/the_rising_sun_collection_18783d1746eb4b5fa93c12fe3ac9705e.png) | [Link](https://stash.clash.gg/collection/The+Rising+Sun+Collection) |
+ | Safehouse | ![Icon](https://github.com/user-attachments/assets/the_safehouse_collection_29da0b210b794a209dd681d698be720a.png) | [Link](https://stash.clash.gg/collection/The+Safehouse+Collection) |
+ | St. Marc | ![Icon](https://github.com/user-attachments/assets/the_st._marc_collection_0989c0273c4246b3b84cda767ee2d65f.png) | [Link](https://stash.clash.gg/collection/The+St.+Marc+Collection) |
+ | Train (2021) | ![Icon](https://github.com/user-attachments/assets/the_2021_train_collection_afcd923951cd49a5be08038358d563ef.png) | [Link](https://stash.clash.gg/collection/The+2021+Train+Collection) |
+ | Train (Old) | ![Icon](https://github.com/user-attachments/assets/the_train_collection_1351541a8ae4427e9bfb7b02cb308305.png) | [Link](https://stash.clash.gg/collection/The+Train+Collection) |
+ | Vertigo (Old) | ![Icon](https://github.com/user-attachments/assets/the_vertigo_collection_a3133455a8954d6ca4abc2b2db9405df.png) | [Link](https://stash.clash.gg/collection/The+Vertigo+Collection) |
 ### skin rarity
 Each skin has a level of rarity, determined by its color and the probability of obtaining it from drops or cases.
 | Grade |
